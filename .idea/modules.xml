@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gocd.iml" filepath="$PROJECT_DIR$/gocd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gocd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gocd_main.iml" group="gocd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gocd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gocd_test.iml" group="gocd" />
+    </modules>
+  </component>
+</project>
